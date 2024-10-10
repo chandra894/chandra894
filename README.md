@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chandra894
+- 👋 Hi, I’m @chandra Kumar Reddy 
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data analytics 
 - 💞️ I’m looking to collaborate on Data analytics 
